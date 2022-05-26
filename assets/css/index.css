@@ -2,20 +2,35 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    background-color: #fafa37;
 }
 
 .container {
-    background-color: #cacaca;
+    background-color:brown;
     padding: 10px;
     margin: 50px;
     display: flex;
     flex-direction: row-reverse;
+    border-bottom-right-radius: 25px;
 }
 
 .item {
-    background-color: #fafa37;
-    color: brown;
-    padding: 20px;
-    margin: 20px;
-    font-size: 50px;
+    background-color: white;
+    color: black;
+    padding: 10px 40px;
+    margin: 10px;
+    font-size: 25px;
+}
+ .items-4{
+     margin-right: 900px;
+ }
+
+ .items-3 {
+
+ }
+ .items-2 {
+
+}
+.items-1 {
+
 }
